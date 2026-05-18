@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-const API_URL = "http://127.0.0.1:8000/predict";
+const API_URL = "https://kredi-skorlama-api.onrender.com/predict";
 
 const formOptions = {
   checking_account: [
